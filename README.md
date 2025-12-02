@@ -2,6 +2,11 @@
 
 This project automates the **User Management module** of the OrangeHRM demo website using **Python + Playwright + Pytest**.
 
+## Video Demonstration
+
+<video controls src="https://github.com/arifansari10027/AccuKnox-user-management-tests/blob/main/Testing-Assignment-Accuknox.mp4" title="Title"></video>
+
+
 ## Features Covered
 
 The following scenarios are automated:
